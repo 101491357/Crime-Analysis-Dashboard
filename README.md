@@ -25,6 +25,7 @@ Next, we examine the geographic spread of crime by analyzing how crimes are dist
 Dashboard Task
 
 Total Crimes:
+
 1 - Sum of all reported crimes in the dataset.
 
 
