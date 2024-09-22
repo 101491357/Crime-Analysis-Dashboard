@@ -26,6 +26,7 @@ Dashboard Task
 Total Crimes:
 1 - Sum of all reported crimes in the dataset.
 
+
 2. Crime Distribution by Year and Yearly Changes:
    - Analysis of crimes categorized by year, including insights into the year-over-year changes.
 
