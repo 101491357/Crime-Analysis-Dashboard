@@ -1,5 +1,5 @@
 # Crime-Analysis-Dashboard
-OverView
+**OverView**
 
 In this project, we take a deep dive into crime data across various European countries, aiming to uncover patterns and trends that can provide insights into the types of crimes and their occurrences.
 
@@ -22,7 +22,7 @@ Next, we examine the geographic spread of crime by analyzing how crimes are dist
 
 
 
-Dashboard Task
+**Dashboard Task**
 
 Total Crimes:
 
